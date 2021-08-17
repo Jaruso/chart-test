@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-17T15:46:43.8291553-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ae3c7a5cca378e763f236594269cb7b90fd735380c3ac9c0aae1e80bcf96e946
+    name: service
+    type: application
+    urls:
+    - https://jaruso.github.io/chart-test/service-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-17T15:46:43.8281253-04:00"
